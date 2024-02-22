@@ -1,6 +1,7 @@
 body {
     background-color: rgb(159, 154, 154);
     color: rgb(0, 0, 0);
+    font-family: Courier;
 }
 
 strong {
@@ -8,7 +9,11 @@ strong {
     width: 200px
 }
 
-span {
+.skill {
     display: inline-block;
     width: 100px
+}
+
+.head-titles {
+    font-size: 20px;
 }
