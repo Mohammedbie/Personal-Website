@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(159, 154, 154);
+    color: rgb(0, 0, 0);
+}
+
+strong {
+    display: inline-block;
+    width: 200px
+}
+
+span {
+    display: inline-block;
+    width: 100px
+}
